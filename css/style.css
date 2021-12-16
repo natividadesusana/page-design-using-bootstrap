@@ -1,3 +1,31 @@
-.navbar {
-    background-color: #DFC296;
+body{
+    font: 20px;
+}
+.navbar{
+    background-color: #ffffff;
+    font-size: 30px;
+    font-family: cursive;
+}
+
+.sobrenos{
+    background-color: #C8AE87;
+    color: rgb(255, 255, 255);
+    font-family: cursive;
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.parceiros{
+    background-color: #ffffff;
+    color:rgb(95, 71, 42);
+    font-family: cursive;
+}
+
+.galeria{
+    background-color: #C8AE87;
+    color: rgb(255, 255, 255);
+    font-family: cursive;
 }
