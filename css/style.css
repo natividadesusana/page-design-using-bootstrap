@@ -1,6 +1,7 @@
 body{
     font: 20px;
 }
+
 .navbar{
     background-color: #ffffff;
     font-size: 30px;
@@ -24,8 +25,15 @@ body{
     font-family: cursive;
 }
 
-.galeria{
+.galeria {    
     background-color: #C8AE87;
     color: rgb(255, 255, 255);
     font-family: cursive;
+    font-size: x-large;
+}
+
+.bg-footer {
+    background-color: #C8AE87;
+    font-family: cursive;
+    font-size: large;
 }
