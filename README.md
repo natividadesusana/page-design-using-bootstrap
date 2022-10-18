@@ -1,2 +1,2 @@
 # Page Using Bootstrap
-Praticando ~ página usando bootstrap
+Practicing - page using bootstrap
